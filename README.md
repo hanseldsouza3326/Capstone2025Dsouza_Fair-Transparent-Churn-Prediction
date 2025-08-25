@@ -27,7 +27,7 @@ The project uses a real-world government dataset enriched with engineered featur
 
 ## 📌 Project Overview
 
-The **FAIRAI** project aims to bridge the gap between accurate churn prediction and responsible AI practices. The solution introduces a hybrid AI system based on a Mixture of Experts (MoE) which integrates traditional models (Logistic Regression, Random Forest, MLP, SVM) through a gating network, and enhances them with specialist modules:
+The **FAIRAI** project aims to bridge the gap between accurate churn prediction, ethical and responsible practices. The solution introduces a hybrid AI system based on a Mixture of Experts (MoE) which integrates traditional models (Logistic Regression, Random Forest, MLP, SVM) through a gating network, and enhances them with specialist modules:
 
 - 🔄 Fairness Optimization using Disparate Impact
 - 🔍 Explainability using ELI5 and local feature attribution
