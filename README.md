@@ -122,5 +122,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 ## 🙏 Acknowledgments
 
 - Irish Government Open Data Portal
-- GDPR, Equal Status Act, Central Bank of Ireland codes
-- Open-source AI communities and contributors
+- GDPR, Equal Status Act, Central Bank of Ireland, Lending & Secured Financial laws, Financial Consumer Protection codes
