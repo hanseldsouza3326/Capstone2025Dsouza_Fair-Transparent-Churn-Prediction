@@ -94,7 +94,7 @@ The end-to-end pipeline consists of:
 
 ## 📊 Dashboard and Audit Logs
 
-[Visit Tableau dashboard] **Source**: (https://public.tableau.com/app/profile/hansel.joaquim.d.souza/viz/FAIRAI-FairTransparentChurnPrediction/Dashboard1)
+[Visit Tableau dashboard]: (https://public.tableau.com/app/profile/hansel.joaquim.d.souza/viz/FAIRAI-FairTransparentChurnPrediction/Dashboard1)
 
 ---
 
