@@ -53,11 +53,11 @@ The end-to-end pipeline consists of:
 2. Feature Engineering
 3. Baseline Logistic Regression Model
 4. Mixture of Experts (MoE) with 4 expert models
-5. Fairness Evaluation & Mitigation
-6. Model Explainability via ELI5
-7. Rule-Based Ethical Auditing
-8. Dashboard generation in Tableau
-9. Reinforcement Learning Expert 
+5. Fairness Evaluation & Mitigation Expert
+6. Model Explainability Expert via ELI5
+7. Rule-Based Ethical Auditing EExpert
+8. Reinforcement Learning Expert
+9.  Dashboard generation in Tableau
 
 ---
 
