@@ -32,7 +32,7 @@ The **FAIRAI** project aims to bridge the gap between accurate churn prediction 
 - 🔄 Fairness Optimization using Disparate Impact
 - 🔍 Explainability using ELI5 and local feature attribution
 - 🛡️ Ethical Auditing using rule-based compliance checks
-- 🎯 Future Integration of Reinforcement Learning for dynamic fairness-policy control
+- 🎯 Reinforcement Learning for dynamic fairness-policy control (With Proper Future Integration) 
 
 ---
 
