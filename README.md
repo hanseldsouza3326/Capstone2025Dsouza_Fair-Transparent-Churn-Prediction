@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This repository contains the complete code, dataset and outputs for my capstone project titled the **FAIRAI** system  which is a modular and regulation-aware AI framework designed for **ethical, fair, and explainable churn prediction** in financial services. The goal of this project is to design a regulation-aware churn prediction system that balances accuracy, fairness, explainability, and ethical compliance, especially suited for the Irish financial sector.
+This repository contains the complete codes, datasets and outputs for my capstone project titled the **FAIRAI** system  which is a modular and regulation-aware AI framework designed for **ethical, fair, and explainable churn prediction** in financial services. The goal of this project is to design a regulation-aware churn prediction system that balances accuracy, fairness, explainability, and ethical compliance, especially suited for the Irish financial sector.
 
 The project uses a real-world government dataset enriched with engineered features, and implements a **Mixture of Experts (MoE)** architecture, integrating fairness optimization, explainable AI, and ethical governance checks. Future integration includes a Reinforcement Learning module to optimize decisions in real-time.
 
